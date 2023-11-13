@@ -1,5 +1,7 @@
 a.txt
 # a comment
+data/
+# adding my data folder
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
